@@ -39,4 +39,4 @@ async function SMS (mobile) {
     console.log(result,code);
 }
 
-SMS(13661764897);
+SMS(13300007878);
